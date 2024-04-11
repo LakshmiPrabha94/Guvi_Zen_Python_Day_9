@@ -13,6 +13,15 @@ This repository contains a collection of Python scripts for various tasks and fu
 
 4. `regex_validation.py` - Validates various patterns using regular expressions, including email addresses, mobile numbers (Bangladesh), telephone numbers (USA), and 16-character alpha-numeric passwords.
    
-## Requirements: Python 3.x
+## Requirements: 
+Python 3.x
+
+## Usage
+
+1. To run the test script:
+   ```
+    python <script_name>.py
+    ```
+   Replace <script_name> with the name of the Python script you want to run.
 
 
